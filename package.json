@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/jackson-/node-location-microservice.git",
   "author": "jackson- <jackson.t.devin@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
 }
