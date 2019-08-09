@@ -1,0 +1,8 @@
+{
+  "name": "node-location-microservice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jackson-/node-location-microservice.git",
+  "author": "jackson- <jackson.t.devin@gmail.com>",
+  "license": "MIT"
+}
